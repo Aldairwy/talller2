@@ -20,13 +20,15 @@
 }
 
 
-.card img {
+.card_img {
   width: 300px;
   height: auto;
   border-radius: 10px;
 }
-
-
+.resolution {
+  width: 200px;
+  height: 200px;
+}
 .card h2 {
   margin-top: 0;
   color: #004aad;
