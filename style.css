@@ -2,7 +2,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #fafafa;
+  background-color: #00ffff;
 }
 
 .header {
@@ -18,15 +18,17 @@ body {
   display: flex;
   align-items: center;
   gap: 10px;
+  
 }
 
 .logo img {
   width: 50px;
   height: auto;
+  border-radius: 28px;
 }
 
 .nav a {
-  color: white;
+  color: rgb(255, 255, 255);
   text-decoration: none;
   margin: 0 10px;
 }
