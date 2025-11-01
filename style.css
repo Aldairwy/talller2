@@ -1,19 +1,11 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-<<<<<<< HEAD
   background-color: #00ffff;
 }
 
-=======
-  background-color: #fafafa;
-}
-
-/* 🔹 HEADER */
->>>>>>> header
 .header {
   display: flex;
   justify-content: space-between;
@@ -27,27 +19,20 @@ body {
   display: flex;
   align-items: center;
   gap: 10px;
-<<<<<<< HEAD
-  
-=======
->>>>>>> header
 }
 
 .logo img {
   width: 50px;
   height: auto;
-<<<<<<< HEAD
   border-radius: 28px;
 }
 
 .nav a {
   color: rgb(255, 255, 255);
-=======
 }
 
 .nav a {
   color: white;
->>>>>>> header
   text-decoration: none;
   margin: 0 10px;
 }
@@ -59,10 +44,10 @@ body {
   padding: 8px 15px;
   cursor: pointer;
   border-radius: 5px;
-<<<<<<< HEAD
+
 }
-=======
->>>>>>> container
+
+
 .contenedor {
   display: flex;
   flex-direction: column;
@@ -105,9 +90,7 @@ body {
   text-align: center;
   max-width: 400px;
 }
-<<<<<<< HEAD
-=======
->>>>>>> footer
+
 .footer {
   background-color: #004aad;
   color: white;
@@ -121,11 +104,6 @@ body {
   margin: 0 10px;
 }
 
-<<<<<<< HEAD
-
-=======
-/* 🔹 RESPONSIVO (para móviles) */
->>>>>>> footer
 @media (max-width: 768px) {
   .card {
     flex-direction: column;
@@ -136,12 +114,6 @@ body {
     width: 100%;
     max-width: 400px;
   }
-<<<<<<< HEAD
-=======
->>>>>>> header
+
 }
-=======
->>>>>>> container
-=======
-}
->>>>>>> footer
+
